@@ -1,3 +1,3 @@
 # A Base64 Encoder
 
-https://hub.docker.com/r/qaxim/encoder/tags
+https://hub.docker.com/r/qaxim/encoder-api/tags
